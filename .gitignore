@@ -1,0 +1,38 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Database
+# db.sqlite3
+
+# Secret key
+*.secret
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
